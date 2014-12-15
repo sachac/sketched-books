@@ -1,0 +1,143 @@
+#+TITLE: Sketched Books
+#+AUTHOR: Sacha Chua
+
+Thank you for picking up this collection of Sketched Books! I share
+these sketches for free under the Creative Commons Attribution license
+because I want to help more people learn about, remember, and share
+the good ideas in books. If you'd like to show your appreciation, you
+can buy this on a pay-what-you-want basis from
+http://sketchedbooks.com/collection. You can get e-mail notifications
+of updates from there, too.
+
+I'd love to hear from you! You can contact me at
+[[mailto:sacha@sachachua.com]] or read my blog at [[http://livinganawesomelife.com][LivingAnAwesomeLife.com]].
+Have fun!
+
+Click on the images to view a larger version, which you can reuse or
+print. Click on the links below the images to read the reviews on my
+blog (Internet access required for those).
+
+#+begin_html
+<link rel="stylesheet" type="text/css" href="normalize.css" />
+<link rel="stylesheet" type="text/css" href="foundation.min.css" />
+#+end_html
+
+- [[file:2014-12-14 Sketched Book - Write Faster Write Better - David A Fryxell.png][Write Faster Write Better - David A Fryxell (sketched 2014-12-14)]]
+  [[file:2014-12-14 Sketched Book - Write Faster Write Better - David A Fryxell.png]]
+
+- [[file:./2014-12-13 Sketched Book - Start With Why - Simon Sinek.png][Start With Why - Simon Sinek (sketched 2014-12-13)]]
+  [[file:./2014-12-13 Sketched Book - Start With Why - Simon Sinek.png]]
+
+- [[file:./2014-12-12 Sketched Book - Just Fucking Ship - Amy Hoy and Alex Hillman.png][Just Fucking Ship - Amy Hoy and Alex Hillman (sketched 2014-12-12)]]
+  [[file:./2014-12-12 Sketched Book - Just Fucking Ship - Amy Hoy and Alex Hillman.png]]
+  [[http://sachachua.com/blog/2014/12/sketched-book-just-fucking-ship-amy-hoy-alex-hillman/][Read notes on my blog]]
+
+- [[file:./2014-12-10 Sketched Book - The Stoic Art of Living - Inner Resilience and Outer Results - Tom Morris.png][The Stoic Art of Living - Inner Resilience and Outer Results - Tom Morris (sketched 2014-12-10)]]
+  [[file:./2014-12-10 Sketched Book - The Stoic Art of Living - Inner Resilience and Outer Results - Tom Morris.png]]
+  [[http://sachachua.com/blog/2014/12/sketched-book-stoic-art-living/][Read notes on my blog]]
+
+- [[file:./2014-12-01 Sketched Book - The Inner Game of Work - W Timothy Gallwey.png][The Inner Game of Work - W Timothy Gallwey (sketched 2014-12-01)]]
+  [[file:./2014-12-01 Sketched Book - The Inner Game of Work - W Timothy Gallwey.png]]
+
+- [[file:./2014-04-16 Sketched Book - Mastery - Robert Greene.png][Mastery - Robert Greene (sketched 2014-04-16)]]
+  [[file:./2014-04-16 Sketched Book - Mastery - Robert Greene.png]]
+  [[http://sachachua.com/blog/2014/05/visual-book-notes-mastery-robert-greene/][Read notes on my blog]]
+
+- [[file:./2014-03-26 Sketched Book - Conscious Millionaire - JV Crum III.png][Conscious Millionaire - JV Crum III (sketched 2014-03-26)]]
+  [[file:./2014-03-26 Sketched Book - Conscious Millionaire - JV Crum III.png]]
+  [[http://sachachua.com/blog/2014/03/visual-book-review-conscious-millionaire-grow-business-making-difference-jv-crum-iii/][Read notes on my blog]]
+
+- [[file:./2014-01-28 Sketched Book - Decode and Conquer - Lewis Lin.png][Decode and Conquer - Lewis Lin (sketched 2014-01-28)]]
+  [[file:./2014-01-28 Sketched Book - Decode and Conquer - Lewis Lin.png]]
+
+- [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.jpg][How to Make a Complete Map of Every Thought You Think - Lion Kimbro (sketched 2013-10-19)]]
+  [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.jpg]]
+  [[http://sachachua.com/blog/2013/10/visual-book-review-how-to-make-a-complete-map-of-every-thought-you-think-lion-kimbro/][Read notes on my blog]]
+
+- [[file:./2013-07-05 Sketched Book - The First 20 Hours - How to Learn Anything.png][The First 20 Hours - How to Learn Anything (sketched 2013-07-05)]]
+  [[file:./2013-07-05 Sketched Book - The First 20 Hours - How to Learn Anything.png]]
+  [[http://sachachua.com/blog/2013/07/visual-book-review-the-first-20-hours-how-to-learn-anything-fast-josh-kaufman/][Read notes on my blog]]
+
+- [[file:./2013-06-28 Sketched Book - Leading Out Loud - Terry Pearce.png][Leading Out Loud - Terry Pearce (sketched 2013-06-28)]]
+  [[file:./2013-06-28 Sketched Book - Leading Out Loud - Terry Pearce.png]]
+  [[http://sachachua.com/blog/2013/07/visual-book-review-leading-out-loud-a-guide-for-engaging-others-in-creating-the-future/][Read notes on my blog]]
+
+- [[file:./2013-06-18 Sketched Book - Customer CEO - How to Profit from the Power of Your Customers - Chuck Wall.png][Customer CEO - How to Profit from the Power of Your Customers - Chuck Wall (sketched 2013-06-18)]]
+  [[file:./2013-06-18 Sketched Book - Customer CEO - How to Profit from the Power of Your Customers - Chuck Wall.png]]
+  [[http://sachachua.com/blog/2013/06/visual-book-review-customer-ceo-how-to-profit-from-the-power-of-your-customers-chuck-wall/][Read notes on my blog]]
+
+- [[file:./2013-05-22 Sketched Book - The Visual Marketing Revolution - 26 Rules to Help Social Media Marketers Connect the Dots - Stephanie Diamond.png][The Visual Marketing Revolution - 26 Rules to Help Social Media Marketers Connect the Dots - Stephanie Diamond (sketched 2013-05-22)]]
+  [[file:./2013-05-22 Sketched Book - The Visual Marketing Revolution - 26 Rules to Help Social Media Marketers Connect the Dots - Stephanie Diamond.png]]
+  [[http://sachachua.com/blog/2013/05/visual-book-review-the-visual-marketing-revolution-stephanie-diamond/][Read notes on my blog]]
+
+- [[file:./2013-05-01 Sketched Book - Red Thread Thinking - Debra Kaye, Karen Kelly.png][Red Thread Thinking - Debra Kaye, Karen Kelly (sketched 2013-05-01)]]
+  [[file:./2013-05-01 Sketched Book - Red Thread Thinking - Debra Kaye, Karen Kelly.png]]
+  [[http://sachachua.com/blog/2013/05/visual-book-review-red-thread-thinking-weaving-together-connections-for-brilliant-ideas-and-profitable-innovation-debra-kaye-with-karen-kelly/][Read notes on my blog]]
+
+- [[file:./2013-04-08 Sketched Book - The Culture Blueprint Robert Richman.png][The Culture Blueprint Robert Richman (sketched 2013-04-08)]]
+  [[file:./2013-04-08 Sketched Book - The Culture Blueprint Robert Richman.png]]
+  [[http://sachachua.com/blog/2013/04/visual-book-review-the-culture-blueprint-robert-richman/][Read notes on my blog]]
+
+- [[file:./2013-02-22 Sketched Book - MWF Seeking BFF - Rachel Bertsche.png][MWF Seeking BFF - Rachel Bertsche (sketched 2013-02-22)]]
+  [[file:./2013-02-22 Sketched Book - MWF Seeking BFF - Rachel Bertsche.png]]
+
+- [[file:./2012-12-30 Sketched Book - Cool Time - A Hands-on Plan for Managing Work and Balancing Time - Steve Prentice.png][Cool Time - A Hands-on Plan for Managing Work and Balancing Time - Steve Prentice (sketched 2012-12-30)]]
+  [[file:./2012-12-30 Sketched Book - Cool Time - A Hands-on Plan for Managing Work and Balancing Time - Steve Prentice.png]]
+  [[http://sachachua.com/blog/2013/01/visual-book-review-cool-time-a-hands-on-plan-for-managing-work-and-balancing-timesteve-prentice/][Read notes on my blog]]
+
+- [[file:./2012-12-29 Sketched Book - The Art of Pricing - Rafi Mohammed.png][The Art of Pricing - Rafi Mohammed (sketched 2012-12-29)]]
+  [[file:./2012-12-29 Sketched Book - The Art of Pricing - Rafi Mohammed.png]]
+  [[http://sachachua.com/blog/2013/01/visual-book-review-the-art-of-pricing-how-to-find-the-hidden-profits-to-grow-your-businessrafi-mohammed/][Read notes on my blog]]
+
+- [[file:./2012-12-28 Sketched Book - Running Lean - Ash Maurya.png][Running Lean - Ash Maurya (sketched 2012-12-28)]]
+  [[file:./2012-12-28 Sketched Book - Running Lean - Ash Maurya.png]]
+  [[http://sachachua.com/blog/2012/12/visual-book-review-running-leanash-maurya/][Read notes on my blog]]
+
+- [[file:./2012-12-28 Sketched Book - Blue Ocean Strategy - W Chan Kim, Renee Mauborgne.png][Blue Ocean Strategy - W Chan Kim, Renee Mauborgne (sketched 2012-12-28)]]
+  [[file:./2012-12-28 Sketched Book - Blue Ocean Strategy - W Chan Kim, Renee Mauborgne.png]]
+  [[http://sachachua.com/blog/2013/01/visual-book-review-blue-ocean-strategyw-chan-kim-rene-mauborgne/][Read notes on my blog]]
+
+- [[file:./2012-12-11 Sketched Book - The Sketchnote Handbook - Mike Rohde.png][The Sketchnote Handbook - Mike Rohde (sketched 2012-12-11)]]
+  [[file:./2012-12-11 Sketched Book - The Sketchnote Handbook - Mike Rohde.png]]
+  [[http://sachachua.com/blog/2012/12/visual-book-review-the-sketchnote-handbook-mike-rohde/][Read notes on my blog]]
+
+- [[file:./2012-12-11 Sketched Book - Best Practices Are Stupid - Stephen M. Shapiro.png][Best Practices Are Stupid - Stephen M. Shapiro (sketched 2012-12-11)]]
+  [[file:./2012-12-11 Sketched Book - Best Practices Are Stupid - Stephen M. Shapiro.png]]
+  [[http://sachachua.com/blog/2012/12/visual-book-notes-best-practices-are-stupidstephen-m-shapiro/][Read notes on my blog]]
+
+- [[file:./2012-09-04 Sketched Book - Help Your Kids Get Better Grades - Gary E.png][Help Your Kids Get Better Grades - Gary E (sketched 2012-09-04)]]
+  [[file:./2012-09-04 Sketched Book - Help Your Kids Get Better Grades - Gary E.png]]
+  [[http://sachachua.com/blog/2012/09/visual-book-review-help-your-kids-get-better-grades/][Read notes on my blog]]
+
+- [[file:./2012-05-09 Sketched Book - 100-dollar Startup - Chris Guillebeau.png][100-dollar Startup - Chris Guillebeau (sketched 2012-05-09)]]
+  [[file:./2012-05-09 Sketched Book - 100-dollar Startup - Chris Guillebeau.png]]
+  [[http://sachachua.com/blog/2012/05/sketchnotes-the-100-startup-reinvent-the-way-you-make-a-living-do-what-you-love-and-create-a-new-future/][Read notes on my blog]]
+
+- [[file:./2012-03-21 Sketched Book - Thank You for Arguing - Jay Heinrichs.png][Thank You for Arguing - Jay Heinrichs (sketched 2012-03-21)]]
+  [[file:./2012-03-21 Sketched Book - Thank You for Arguing - Jay Heinrichs.png]]
+  [[http://sachachua.com/blog/2012/04/visual-book-review-thank-you-for-arguing-what-aristotle-lincoln-and-homer-simpson-can-teach-us-about-the-art-of-persuasion/][Read notes on my blog]]
+
+- [[file:./2012-03-21 Sketched Book - Enough - Patrick Rhone.png][Enough - Patrick Rhone (sketched 2012-03-21)]]
+  [[file:./2012-03-21 Sketched Book - Enough - Patrick Rhone.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-review-enough/][Read notes on my blog]]
+
+- [[file:./2012-03-19 Sketched Book - Getting to Yes - Roger Fisher, William Ury, Bruce Patton.png][Getting to Yes - Roger Fisher, William Ury, Bruce Patton (sketched 2012-03-19)]]
+  [[file:./2012-03-19 Sketched Book - Getting to Yes - Roger Fisher, William Ury, Bruce Patton.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-notes-getting-to-yes-negotiating-agreement-without-giving-in/][Read notes on my blog]]
+
+- [[file:./2012-03-19 Sketched Book - Critical Inquiry - Michael Boylan.png][Critical Inquiry - Michael Boylan (sketched 2012-03-19)]]
+  [[file:./2012-03-19 Sketched Book - Critical Inquiry - Michael Boylan.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-review-critical-inquiry-the-process-of-argument/][Read notes on my blog]]
+
+- [[file:2012-03-06 Sketched Book - How to Read a Book - Mortimer J Adler, Charles van Doren.png][How to Read a Book - Mortimer J Adler, Charles van Doren (sketched 2012-03-06)]]
+  [[file:./2012-03-06 Sketched Book - How to Read a Book - Mortimer J Adler, Charles van Doren.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-notes-how-to-read-a-book/][Read notes on my blog]]
+
+- [[file:./2012-03-04 Sketched Book - The Start-up of You - Reid Hoffman, Ben Casnocha.png][The Start-up of You - Reid Hoffman, Ben Casnocha (sketched 2012-03-04)]]
+  [[file:./2012-03-04 Sketched Book - The Start-up of You - Reid Hoffman, Ben Casnocha.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-notes-the-start-up-of-you-reid-hoffman-ben-casnocha/][Read notes on my blog]]
+
+- [[file:2012-02-29 Sketched Book - 6 Secrets to Startup Success - John Bradberry.png][6 Secrets to Startup Success - John Bradberry (sketched 2012-02-29)]]
+  [[file:./2012-02-29 Sketched Book - 6 Secrets to Startup Success - John Bradberry.png]]
+  [[http://sachachua.com/blog/2012/03/visual-book-notes-6-secrets-to-startup-success/][Read notes on my blog]]
+
