@@ -1,13 +1,13 @@
-all: Sketched\ Books.zip index.html sketched-books.epub sketched-books.mobi ebook.pdf
+all: sketched-books.zip index.html sketched-books.epub sketched-books.mobi ebook.pdf
 
 clean:
 	rm -f *.dvi *.log *.nav *.out *.tex *.snm *.toc
 
 distclean: clean
-	rm -f Sketched\ Books.zip index.html *.epub *.pdf *.mobi
+	rm -f sketched-books.zip index.html *.epub *.pdf *.mobi
 
-Sketched\ Books.zip: *.png index.html
-	(cd ..; zip Sketched\ Books/Sketched\ Books.zip Sketched\ Books/* -i *.css -i *.png -i *.html)
+sketched-books.zip: *.png index.html
+	(cd ..; zip sketched-books/sketched-books.zip sketched-books/* -i *.css -i *.png -i *.html)
 
 index.html: index.org
 	emacs --batch -l build.el index.org -f org-html-export-to-html --kill
