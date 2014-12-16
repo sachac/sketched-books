@@ -50,8 +50,8 @@ blog (Internet access required for those).
 - [[file:./2014-01-28 Sketched Book - Decode and Conquer - Lewis Lin.png][Decode and Conquer - Lewis Lin (sketched 2014-01-28)]]
   [[file:./2014-01-28 Sketched Book - Decode and Conquer - Lewis Lin.png]]
 
-- [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.jpg][How to Make a Complete Map of Every Thought You Think - Lion Kimbro (sketched 2013-10-19)]]
-  [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.jpg]]
+- [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.png][How to Make a Complete Map of Every Thought You Think - Lion Kimbro (sketched 2013-10-19)]]
+  [[file:./2013-10-19 Sketched Book - How to Make a Complete Map of Every Thought You Think - Lion Kimbro.png]]
   [[http://sachachua.com/blog/2013/10/visual-book-review-how-to-make-a-complete-map-of-every-thought-you-think-lion-kimbro/][Read notes on my blog]]
 
 - [[file:./2013-07-05 Sketched Book - The First 20 Hours - How to Learn Anything.png][The First 20 Hours - How to Learn Anything (sketched 2013-07-05)]]

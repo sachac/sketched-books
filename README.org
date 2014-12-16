@@ -1,6 +1,6 @@
 This repository contains a collection of sketches and my build process for creating ZIP/EPUB/MOBI/PDF collections. To produce the collections, I use Org Mode, Calibre, and LaTeX with the Beamer package. The sketches are under the Creative Commons Attribution License, so you can freely share them. Feel free to pick up any ideas from my build-related stuff for your own process.
 
-To draw the sketches, I use either Autodesk Sketchbook Pro on a Lenovo X220i tablet PC, or Pilot Hi-Tec C4 pens on 8.5x11" paper. You can find out more about my tools and workflow at http://sachachua.com/sketchtools .
+To draw the sketches, I use either Autodesk Sketchbook Pro on a Lenovo X220i tablet PC, or Pilot Hi-Tec C4 pens on 8.5x11" paper. You can find out more about my tools and workflow at http://sachachua.com/sketch-tools .
 
 You can find the published collections at http://sketchedbooks.com/collection (free / pay what you want). You can also go to http://sketchedbooks.com to see them on my website.
 
