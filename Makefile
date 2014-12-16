@@ -1,10 +1,10 @@
-all: sketched-books.zip index.html sketched-books.epub sketched-books.mobi ebook.pdf
+all: sketched-books.zip index.html sketched-books.epub sketched-books.mobi sketched-books.pdf
 
 clean:
 	rm -f *.dvi *.log *.nav *.out *.tex *.snm *.toc
 
 distclean: clean
-	rm -f sketched-books.zip index.html *.epub *.pdf *.mobi
+	rm -f *.zip index.html *.epub *.pdf *.mobi
 
 sketched-books.zip: *.png index.html
 	(cd ..; zip sketched-books/sketched-books.zip sketched-books/* -i *.css -i *.png -i *.html)
@@ -30,7 +30,7 @@ sketched-books.mobi: ebook.html
 ebook.tex: ebook.org
 	emacs --batch -l build.el ebook.org -f org-beamer-export-to-latex --kill
 
-ebook.pdf: ebook.tex
+sketched-books.pdf: ebook.tex
 	pdflatex ebook.tex
 	cp ebook.pdf sketched-books.pdf
 	rm ebook.pdf
