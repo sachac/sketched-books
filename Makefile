@@ -1,4 +1,4 @@
-all: sketched-books.zip index.html sketched-books.epub sketched-books.mobi sketched-books.pdf
+all: ebook.html index.html sketched-books.zip sketched-books.epub sketched-books.mobi sketched-books.pdf
 
 clean:
 	rm -f *.dvi *.log *.nav *.out *.tex *.snm *.toc
