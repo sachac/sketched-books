@@ -22,6 +22,10 @@ blog (Internet access required for those).
 <link rel="stylesheet" type="text/css" href="foundation.min.css" />
 #+end_html
 
+<<insert-point>>
+- [[file:2014-12-31 Sketched Book - The Checklist Manifesto - How to Get Things Right - Atul Gawande.png][The Checklist Manifesto - Atul Gawande (sketched 2014-12-31)]]
+  [[file:2014-12-31 Sketched Book - The Checklist Manifesto - How to Get Things Right - Atul Gawande.png]]
+
 - [[file:2014-12-25 Sketched Book - Take Charge of Your Talent - Three Keys to Thriving in Your Career, Organization, and Life - Don Maruska and Jay Perry.png][Take Charge of Your Talent - Don Maruska, Jay Perry (sketched 2014-12-25)]]
   [[file:2014-12-25 Sketched Book - Take Charge of Your Talent - Three Keys to Thriving in Your Career, Organization, and Life - Don Maruska and Jay Perry.png]]
 
