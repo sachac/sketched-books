@@ -30,6 +30,11 @@ Have fun!
 #+end_html
 
 <<insert-point>>
+
+* So Good They Can't Ignore You - Cal Newport (sketched 2015-01-03)
+
+[[file:2015-01-03 Sketched Book - So Good They Can't Ignore You - Why Skills Trump Passion in the Quest for Work You Love - Cal Newport.png]]
+
 * The Checklist Manifesto - Atul Gawande (sketched 2014-12-31)
 
 [[file:2014-12-31 Sketched Book - The Checklist Manifesto - How to Get Things Right - Atul Gawande.png]]
